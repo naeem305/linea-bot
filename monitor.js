@@ -5,7 +5,7 @@ const axios = require('axios');
 const CONFIG = {
     // Contract addresses
     AIRDROP_CONTRACT: '0x87bAa1694381aE3eCaE2660d97fe60404080Eb64',
-    LINEA_TOKEN: '0x1789e0043623282D5DCc7F213d703C6D8BAfBB04',
+    LINEA_TOKEN: '0x5FBDF89403270a1846F5ae7D113A989F850d1566',
     
     // Network
     RPC_WSS: 'wss://linea-mainnet.g.alchemy.com/v2/wd-9XAJoEnMc8NWQXwT3Z',
