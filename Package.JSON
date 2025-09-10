@@ -1,0 +1,26 @@
+{
+  "name": "linea-airdrop-monitor",
+  "version": "1.0.0",
+  "description": "Monitor Linea airdrop contract for funding and send Telegram notifications",
+  "main": "monitor.js",
+  "scripts": {
+    "start": "node monitor.js",
+    "dev": "node monitor.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "linea",
+    "airdrop",
+    "monitor",
+    "telegram",
+    "blockchain"
+  ],
+  "author": "Airdrop Monitor Bot",
+  "license": "MIT"
+}
